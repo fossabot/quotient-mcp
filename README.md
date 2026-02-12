@@ -1,4 +1,6 @@
 # Quotient MCP
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fquotient-ai%2Fquotient-mcp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fquotient-ai%2Fquotient-mcp?ref=badge_shield)
+
 
 An MCP server for evaluating tool calls and AI agent interactions. Analyzes and scores tool usage correctness in conversational AI contexts.
 
@@ -188,3 +190,7 @@ This repository contains a collection of agent configurations and code examples 
 - **[Claude Desktop](examples/claude_desktop/)** - Complete setup guide for Claude Desktop integration with stdio transport
 
 We will continue to add new integrations as they become available.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fquotient-ai%2Fquotient-mcp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fquotient-ai%2Fquotient-mcp?ref=badge_large)
